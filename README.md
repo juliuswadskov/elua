@@ -1,0 +1,2 @@
+# elua
+EJS for fivem
