@@ -22,5 +22,3 @@ shared_scripts {
     'elua/mustache.lua',
 }
 ```
-
-You only need the folder `elua`.
